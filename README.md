@@ -1,6 +1,6 @@
 ![MasterHead](./bannergit.jpg)
 
-### Hi there 👋
+### Welcome to my profile ! 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,8 +11,22 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img src="https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" width="480" height="270">
+
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/SqX0PpdwBMorfoBBHX/giphy.gif" width="100">
+  Tech I am Familiar with <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="60">
+</h2>
+
+<br>
+
+<h2 align="center">
+  Connect with me <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="60">
+</h2>
+
+<br>
+
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/SqX0PpdwBMorfoBBHX/giphy.gif" width="60">
 </h2>
 
 <br>
