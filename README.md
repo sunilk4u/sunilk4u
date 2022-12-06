@@ -38,9 +38,8 @@ I am a B.tech graduate with specialization in Information Technology. 👨‍�
 </h2>
 
 <br>
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]("https://twitter.com/Sunilk4u")
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]("www.linkedin.com/in/itssunil")
+<a href="https://twitter.com/Sunilk4u" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/itssunil" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/SqX0PpdwBMorfoBBHX/giphy.gif" width="60">
