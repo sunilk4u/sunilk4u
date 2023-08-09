@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-I am a B.tech graduate with specialization in Information Technology. 👨‍💻 I like to work on web development projects and learn new technologies. Currently working on improving my 🛠️ development skills. Looking to contribute on opensource projects for self improvement 💪. I like to watch movies 🎬 in my free time and draw random stuff 🎨.
+Hello , I am a Fullstack JavaScript Developer with skill for crafting interactive and efficient applications. 👨‍💻 I like to work on web development projects and learn new technologies. Currently working on improving my 🛠️ development skills. Looking to contribute on opensource projects for self improvement 💪. I like to watch movies 🎬 in my free time and draw random stuff 🎨.
 </p>
 
 <h2 align="center">
