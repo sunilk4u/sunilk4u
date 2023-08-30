@@ -1,13 +1,13 @@
 ![MasterHead](./bannergit.jpg)
 
-<h3 align="center"><em>Hi, I am Sunil. A software developer / full stack web developer.</em></h3><hr>
+<h3 align="center"><em>Hi, I am Sunil. A software developer / fullstack developer.</em></h3><hr>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" width="380" height="210">
 </p>
 
 <p align="center">
-Hello , I am a Fullstack JavaScript Developer with skill for crafting interactive and efficient applications. 👨‍💻 I like to work on web development projects and learn new technologies. Currently working on improving my 🛠️ development skills. Looking to contribute on opensource projects for self improvement 💪. I like to watch movies 🎬 in my free time and draw random stuff 🎨.
+Hello , I am a Fullstack Developer with skill for crafting interactive and efficient applications. 👨‍💻 I like to work on web development projects and learn new technologies. Currently working on improving my 🛠️ development skills. Looking to contribute on opensource projects for self improvement 💪. I like to watch movies 🎬 in my free time and draw random stuff 🎨.
 </p>
 
 <h2 align="center">
